@@ -2,8 +2,12 @@
 
 ## Overview
 Welcome to the Federal Fund Rate and Sector Performance Analysis repository! This project provides a comprehensive investigation into the relationship between changes in the Federal Fund Rate and the performance of various sectors within the S&P 500 index. By analyzing historical data, we aim to uncover insights that can inform investment strategies and deepen our understanding of economic dynamics.
+	
+	FOLDERS:
+	CSV_DATA - All raw sector data from Yahoo finance and federal reserve API. Cleaning and merging scripts.
+	 
 
-## Contents
+## Contents:
 1. **Sector_data_MERGE.pynb**: This Jupyter notebook facilitates the merging of sector data extracted from CSV files. It is a crucial step in preparing the data for subsequent analysis.
    
 2. **Main.pybn**: The Python script `Main.pybn` is designed to handle the cleaning and processing of Federal Fund Rate data and sector performance data. It serves as the backbone of our analytical pipeline.
